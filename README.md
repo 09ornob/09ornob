@@ -24,16 +24,22 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,ts,nestjs,mongodb,postgresql,git,github,docker,linux" />
 </p>
 
-### GitHub Stats:
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=09ornob&show_icons=true&locale=en&theme=tokyonight" alt="Mahdi Ahsan's GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=09ornob&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=09ornob&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=09ornob&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=09ornob&theme=tokyonight" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=09ornob&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
