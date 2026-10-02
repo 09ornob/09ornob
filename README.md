@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mahdi Ahsan
+<h1 align="center">Hi 👋, I'm Mahdi Ahsan</h1>
 
 
 
