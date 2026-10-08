@@ -3,17 +3,17 @@
 
 
 - 🔭 I'm currently working on a **NestJS application**
-- 
+
 - 🌱 I'm currently learning **TypeScript, NestJS, PostgreSQL and SQL**
-- 
+
 - 👯 I'm looking to collaborate on **Full-Stack / Backend Projects**
-- 
+
 - 👨‍💻 All of my projects are available at [https://github.com/09ornob](https://github.com/09ornob)
-- 
+  
 - 💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**
-- 
+  
 - 🚀 Currently moving deeper into **Backend Development and Software Engineering**
-- 
+  
 - 📚 Currently practicing **Data Structures & Algorithms and problem solving**
 
 ### Connect with me:
